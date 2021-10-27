@@ -9,7 +9,10 @@ function Profile() {
                 <h1>Diego Loiola</h1>
                 <S.WrapperUsername>
                     <h3>Username: </h3>
-                    <span>didi-loiola</span>
+                    <a 
+                    href="https://github.com/didi-loiola"
+                    target="_blank" 
+                    rel="noreferrer">didi-loiola</a>
                 </S.WrapperUsername>
             </div>
             <S.WrapperStatusCount>
