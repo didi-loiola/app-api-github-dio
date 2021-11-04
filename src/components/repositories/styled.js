@@ -22,7 +22,7 @@ export const WrapperTab = styled(Tab)`
     user-select: none;
     cursor: pointer;
     z-index: 99999;
-    background-color: #fff;
+    background-color: rgba(2,136,209,0.3);
     margin: 8px;
 
     &:focus {
@@ -37,7 +37,7 @@ WrapperTab.tabsRole = "Tab";
 
 export const WrapperTabPanel = styled(TabPanel)`
     padding: 16px;
-    border: 1px solid "#ccc";
+    border: 1px solid #ccc;
     display: none;
     margin-top: -5px;
 

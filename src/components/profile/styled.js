@@ -23,7 +23,7 @@ export const WrapperUserGeneric = styled.div`
     }
     a {
         font-size: 18px;
-        color: red;
+        color: #0288D1;
         font-weight: bold
     }
 `;
